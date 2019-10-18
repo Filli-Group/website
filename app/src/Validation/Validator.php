@@ -4,6 +4,7 @@
  *
  * Copyright (c) 2019 Filli Group (Einzelunternehmen)
  * Copyright (c) 2019 Filli IT (Einzelunternehmen)
+ * Copyright (c) 2019 Filli Payment  (Einzelunternehmen)
  * Copyright (c) 2019 Ursin Filli
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy

@@ -1,5 +1,5 @@
-# Template Website
+# Filli Group Website
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Template Website Based on the Slim 3 Framework
+Filli Group Website Based on the Slim 3 Framework
