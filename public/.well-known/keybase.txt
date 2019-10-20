@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/ursinn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://filli-group.com
+  * I am ursinn (https://keybase.io/ursinn) on keybase.
+  * I have a public key with fingerprint 3BBF 4CF4 7371 ADBC DF8D  6FAB D17A E140 521D 6E21
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101157f81f44b0dc5051a90cfc352ed5d070573e537bec3eda115dc7cf287165b6a0a",
+      "fingerprint": "3bbf4cf47371adbcdf8d6fabd17ae140521d6e21",
+      "host": "keybase.io",
+      "key_id": "d17ae140521d6e21",
+      "kid": "0101157f81f44b0dc5051a90cfc352ed5d070573e537bec3eda115dc7cf287165b6a0a",
+      "uid": "b4886619e66bb25f2445e4ef14a87219",
+      "username": "ursinn"
+    },
+    "service": {
+      "hostname": "filli-group.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1571578386,
+  "expire_in": 157680000,
+  "prev": "a3d210f97bc0aadbe63b35e65644127c000b2338692a4ffff59b4295a6ab6ac3",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUn1MVWUYv9zIAG1SZisMwVOjIrqc73PvRUQZECsQqdb4CK/ve8574Cicc7kf
+ICHM6SoQY+QiXYF8FNISpBmL70DJYEINpIFKwYVrKC23UsAI2nov0//6s2fv9u59
+nt/v93y8T8WjD+l8vEbfmdn5eqC6zWtoHuoymuDWQgJqUgFhLiQOoLULZUvI7rAc
+UCTCTJAUSVGcIBspmWUhKYkcyVHARIqyyHA0kjiJFEhOYBDHCBCJDJIAxkuiIMq0
+UaB4DvKABEQYIStqJrJZbYrqwLIMhDIryqzACBSQoCjJRomXAZQoASCKJTmaknhE
+U5iYpdk9DFwcBHZkUDTsww/LWnn/gf+f63auyUHWaOR5yoR4HkKak2mW5RCLZIoF
+RoGmTB6gHdlUkIMw2mmzK6pKFIUR2JeniMgzVk8f9+Oykp2tvJxp05xWg6jlYLLV
+pjk0UcvGwSyHw2o3e8iOAqsHnY+g5b6OBSqqhAeJGXkIJ9FUwkxhpOhQPMK4YXyM
+jJEPI9BBq2JDFkVdc/NGEpsnD8rDkoCRaIpMk00CFEmAPwDxDGQ4xHM8y1K0IGIw
+pBksZKIBK2PjTJClTRzgAR6MyBCe1nJVjTAzJlwoyMSidiVTBQ6nDRFFfqV6xlvn
+5aMLfHKbd0RvwoI9t7l7+gPt7IPte1jvWT2dn6//A88vNf664/2Uq2HoSPTqLbfD
+WXNB+z084onljILNOalXvaz21YyuuZ7WgOe7kqMWhz9/JnEodoZouzR2Oq7t6ajm
+gbol7fYpd8qhV0XABuX8FJ/lPVAxfmJvQlmI4XvyPVtzzdU/oW46yyf5Ymh6bKvJ
+FbPO3dFtPfyYwoV2NZY1lY0mVrZNnl6M1D9risseY3zoW8lnfKPljsS3w3N+Xo6o
+HGWf+uK3y/FEMiipf/fNjLtt+d0rZUNkwvSlifmOqSv/pLOr469sGayuqz518Gzz
+x10nFoqHXbqE+ntBS1VLhUU7ihtHY+xRmjAYtD5swx+7dh872l59Lvyt4W+tn6Tt
+j91Y7tJXTR1OuXxjZ2v5rPs6+dL82PaWDZUBW8VyeDzUr+z8hDnum8HZXxe+G9i0
+95EXG/y6zQOlupaSQ9v/3rOyJTrys/o0t18tKKeuWT481td35mt4Ly26NuXL9ftH
+fvi04txHjr5mVe4MvlACi/bMrSRV9R5wVUu3X9gHJnYttvcnbTwZV/rVKk9tluNW
+/1J7g/ddHIlU8txVm3aM9+vWsb09Mc/xC7U/8sETPaGdk+ezrL7OO3JSRSqTYLjb
+skQsV3gZb+b5u0bn3nhtcp4wtxcF33xfH76750ZxwNTJEXE2tbH4ca7Ov5Oambg+
+NxDSMA4NR9LvhFQnHr12hc4P1Ku58U0thn8B
+=NXw9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ursinn
+
+==================================================================
